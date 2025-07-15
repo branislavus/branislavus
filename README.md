@@ -1,4 +1,4 @@
-<h2 align="center">I’m glad you’re here.</h2>
+<h2 align="center">Hi, I'm Branislav<br>I'm working toward becoming a Frontend Developer. I’m glad you’re here.</h2>
 
 ###
 
